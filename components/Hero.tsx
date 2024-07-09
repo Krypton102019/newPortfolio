@@ -35,7 +35,7 @@ const  Hero = ()=>{
                         words="Transforming Concepts into Seamless Experiences"
                     />   
                     <p>Hello, My name is Erwin, a Next JS developer</p>
-                    <a href="#about">
+                    <a href="#about" className="sm:mt-4">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow/>}
