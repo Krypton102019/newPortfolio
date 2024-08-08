@@ -100,7 +100,7 @@ export const navItems = [
       id: 4,
       title: "Admin Dashboard Website",
       des: "The Admin Dashboard Website offers a comprehensive platform for administrators to manage and monitor various aspects of their operations. It includes features such as user management, data analytics, and customizable reports to enhance efficiency and decision-making.",
-      img: "/p4.svg",
+      img: "https://i.pinimg.com/736x/cc/6d/d6/cc6dd61a2981a611cdd64854716c9cd4.jpg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://adoring-agnesi-12035a.netlify.app/",
     },
