@@ -66,7 +66,9 @@ export const navItems = [
       titleClassName: "justify-center md:max-w-full max-w-60 text-center",
       img: "",
       spareImg: "",
+        
     },
+      
   ];
   
   export const projects = [
@@ -102,6 +104,23 @@ export const navItems = [
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://adoring-agnesi-12035a.netlify.app/",
     },
+      {
+      id: 5,
+      title: "My Old Portfolio File",
+      des: "Hi there! I’m a passionate Junior Front-End Web Developer who loves turning ideas into beautiful, functional, and user-friendly websites. With a solid foundation in HTML, CSS, JavaScript, Next.js, React.js, and Tailwind CSS, I’m dedicated to bringing your web projects to life. You can check out some of my previous work here.",
+      img: "/p4.svg",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "https://krypton102019.github.io/myportfolio.github.io/",
+    },
+       {
+      id: 6,
+      title: "Hoo Bank",
+      des: "Hoobank Modern Bank is a sleek, modern banking web application designed with a focus on user experience and efficiency. Built using React.js and Tailwind CSS, this application features a clean, responsive design that adapts seamlessly across various devices. The intuitive interface allows users to manage their accounts, view transactions, and access banking services with ease. Key functionalities include secure login, transaction history, and account management. The app showcases the power of React for building dynamic user interfaces and Tailwind CSS for creating a visually appealing and responsive layout.",
+      img: "/p4.svg",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "https://hoobankmodernbank.netlify.app",
+    },
+      
   ];
   
   export const testimonials = [
